@@ -75,11 +75,12 @@
   &nbsp;&nbsp;
   <img width="430" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+---
 
-## 🗓️ GitHub Contribution Graph
+## 🗓️ Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BJB0&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BJB0&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
