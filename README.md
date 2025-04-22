@@ -71,10 +71,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=BJB0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="430" height="220" src="https://github-readme-stats.vercel.app/api?username=BJB0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="430" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
@@ -90,7 +91,7 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhargab-jb" target="_blank">
