@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Bhargab -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hey!+I'm+Bhargab+Jyoti+Bhuyan;CS+Undergrad+%7C+AI%2FML+Explorer;Fueled+by+Code+and+Caffeine;Let%E2%80%99s+Build+Cool+Stuff+Together!;Appreciate+you+dropping+by." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=500&lines=Hey!+I'm+Bhargab+Jyoti+Bhuyan;CS+Undergrad+%7C+AI%2FML+Explorer;Fueled+by+Code+and+Caffeine;Let%E2%80%99s+Build+Cool+Stuff+Together!;Appreciate+you+dropping+by." alt="Typing SVG" />
 </p>
 
 ---
@@ -10,11 +10,11 @@
 
 <p>
   <strong>🎓 CSE Undergrad at Tezpur University (Class of 2026)</strong><br/>
-  🤖 Exploring Generative AI, LLMs, Deep Learning, and Data Science<br/>
-  🌐 Currently diving into Advanced ML, LangChain, Vector DBs & React<br/>
-  👯‍♂️ Always open to collaborating on AI/ML tools, LLM apps, or web-based solutions<br/>
-  💬 Ask me about student life + AI, building MVPs, internships, or fitness content<br/>
-  ⚡ Fun fact: I lift heavier than my code compiles 😄
+  <strong>🤖 Exploring Generative AI, LLMs, Deep Learning, and Data Science<br/>
+  <strong>🌐 Currently diving into Advanced ML, LangChain, Vector DBs & React<br/>
+  <strong>👯‍♂️ Always open to collaborating on AI/ML tools, LLM apps, or web-based solutions<br/>
+  <strong>💬 Ask me about student life + AI, building MVPs, internships, or fitness content<br/>
+  <strong>⚡ Fun fact: I lift heavier than my code compiles 😄
 </p>
 
 
