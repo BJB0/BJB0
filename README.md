@@ -60,8 +60,10 @@
 
 <div align="center">
 
-![BJB0's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BJB0&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=BJB0&theme=dark&hide_border=true)
 <br>
+</div>
+
 
 ![BJB0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=dark&hide_border=true&card_width=495)
 
