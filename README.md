@@ -55,20 +55,13 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BJB0&theme=dark&hide_border=true)
-<br>
-
-</div>
-
-
-![BJB0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=dark&hide_border=true&card_width=495)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BJB0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 
 ---
