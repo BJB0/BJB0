@@ -68,17 +68,15 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="220" src="https://github-readme-stats.vercel.app/api?username=BJB0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="220" src="https://streak-stats.demolab.com?user=BJB0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  &nbsp;&nbsp;
   <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-
 ---
+
 ### 🐍 GitHub Activity Snake
 
 <p align="center">
