@@ -1,23 +1,23 @@
-![github-header-image](https://github.com/user-attachments/assets/e7415d7a-6e12-44f8-b22e-d755d667885c)
+<!-- GitHub Profile README for Bhargab -->
 
-🎓 Undergraduate in Computer Science and Engineering at Tezpur University, class of 2026.
-
-🤖 Passionate about Generative AI, LLMs, Deep Learning, and diving deeper into Data Science & Analytics.
-
-🌐 Currently learning Advanced ML, LangChain, Vector DBs & React — building smart, interactive UIs on the go.
-
-👯 Open to collab on AI/ML, Data Science, LLM-based tools, or anything blending tech with creativity — Web Dev too!
-
-💬 Ask me about: Getting into AI/ML as a student, building MVPs, juggling internships + college, or fitness content creation.
-
-⚡ Fun fact: I lift heavier than my code compiles.
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey!+I'm+Bhargab.;CS+Undergrad+%7C+AI%2FML+Explorer.;Fueled+by+Code+and+Caffeine.;Let’s+Build+Cool+Stuff+Together!;Appreciate+you+dropping+by.&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 Tech Stack:
+🎓 Undergraduate in Computer Science and Engineering at Tezpur University, class of 2026.  
+🤖 Passionate about Generative AI, LLMs, Deep Learning, and diving deeper into Data Science & Analytics.  
+🌐 Currently learning Advanced ML, LangChain, Vector DBs & React — building smart, interactive UIs on the go.  
+👯 Open to collab on AI/ML, Data Science, LLM-based tools, or anything blending tech with creativity — Web Dev too!  
+💬 Ask me about: Getting into AI/ML as a student, building MVPs, juggling internships + college, or fitness content creation.  
+⚡ Fun fact: I lift heavier than my code compiles.
 
-#### 🧠 AI & Data Science
+---
+
+## 🚀 Tech Stack
+
+### 🧠 AI & Data Science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -27,7 +27,7 @@
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-#### 🌐 Web Development
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,14 +38,14 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-#### ☁️ Cloud & Hosting
+### ☁️ Cloud & Hosting
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-#### ⚙️ Tools & Languages
+### ⚙️ Tools & Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -55,14 +55,16 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BJB0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BJB0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=BJB0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 
 ---
 
@@ -78,8 +80,24 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/bhargab-jb)
-[![X](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/@BhargabjyotiBh8)
-[![Instagram](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369)](https://www.instagram.com/bhargab_jb)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhargab-jb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/BhargabjyotiBh8" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/bhargab_jb" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:bjbcr7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BJB0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=BJB0&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BJB0&style=flat-square&color=blue" alt="Visitor Count"/>
+</p>
