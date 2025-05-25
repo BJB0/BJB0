@@ -10,10 +10,15 @@
 
 <p>
   <strong>🎓 CSE Undergrad at Tezpur University (Class of 2026)</strong><br/>
+
   <strong>🤖 Exploring Generative AI, LLMs, Deep Learning, and Data Science<br/>
+
   <strong>🌐 Currently diving into Advanced ML, LangChain, Vector DBs & React<br/>
+
   <strong>👯‍♂️ Always open to collaborating on AI/ML tools, LLM apps, or web-based solutions<br/>
+
   <strong>💬 Ask me about student life + AI, building MVPs, internships, or fitness content<br/>
+
   <strong>⚡ Fun fact: I lift heavier than my code compiles 😄
 </p>
 
