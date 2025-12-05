@@ -1,0 +1,41 @@
+name: Update GitHub Readme Stats Images
+on:
+  workflow_dispatch:
+  schedule:
+    # daily at 00:30 UTC (adjust if you want)
+    - cron: '30 0 * * *'
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Ensure assets dir exists
+        run: |
+          mkdir -p assets
+
+      - name: Download GitHub Readme Stats - main card
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api?username=BJB0&show_icons=true&theme=tokyonight&hide_border=true" -o assets/github_stats.png || exit 0
+
+      - name: Download GitHub Readme Stats - top languages
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=tokyonight&hide_border=true" -o assets/top_languages.png || exit 0
+
+      - name: Check for changes
+        run: |
+          if git status --porcelain | grep -q '^'; then
+            echo "Changes detected — committing"
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add assets/github_stats.png assets/top_languages.png || true
+            git commit -m "chore: update generated github stats images" || true
+            git push
+          else
+            echo "No changes"
+          fi
