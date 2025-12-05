@@ -76,8 +76,9 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BJB0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 420px; height: 200px; object-fit: cover;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJB0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="width: 420px; height: 200px; object-fit: cover;" />
+  <!-- Local copies of the generated cards -->
+  <img src="./assets/github_stats.png" alt="GitHub Stats" style="width:420px; height:200px; object-fit:cover;" />
+  <img src="./assets/top_languages.png" alt="Top Languages" style="width:420px; height:200px; object-fit:cover;" />
 </div>
 
 
