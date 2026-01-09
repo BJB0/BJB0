@@ -73,16 +73,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <!-- Local copies of the generated cards -->
-  <img src="./assets/github_stats.png" alt="GitHub Stats" style="width:420px; height:200px; object-fit:cover;" />
-  <img src="./assets/top_languages.png" alt="Top Languages" style="width:420px; height:200px; object-fit:cover;" />
-</div>
-
-
----
 
 ## 🗓️ Contribution Activity Graph
 
