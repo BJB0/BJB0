@@ -9,7 +9,7 @@
 ### 👋 About Me
 
 <p>
-  <strong>🎓 CSE Undergrad at Tezpur University (Class of 2026)</strong><br/>
+  <strong>🎓 CSE grad at Tezpur University (Class of 2026)</strong><br/>
 
   <strong>🤖 Exploring Generative AI, LLMs, Deep Learning, and Data Science<br/>
 
