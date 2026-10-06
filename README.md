@@ -1,5 +1,9 @@
 <!-- GitHub Profile README for Bhargab Jyoti Bhuyan -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+to+internships+%7C+AI%2FML+%26+NLP;Dense+retrieval+%2B+deployable+ML+backends;Tezpur+University+%C2%B7+Class+of+2026" alt="Typing intro" />
+</p>
+
 # Bhargab Jyoti Bhuyan
 
 **B.Tech Computer Science & Engineering · Tezpur University (Class of 2026)**
@@ -8,18 +12,7 @@ I build end-to-end ML pipelines, deploy models with FastAPI, and ship LLM-powere
 
 **Open to internships** (AI/ML, NLP, ML engineering) and thoughtful collaborations.
 
-[**Portfolio**](https://bjbportfolio.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/bhargab-jb/) · [**Email**](mailto:bjbcr7@gmail.com)
-
----
-
-## Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [**Student Performance Prediction**](https://github.com/BJB0/Student-Performance-ML-project) | SQL → EDA → feature engineering → GridSearchCV; **85% R²**; MLflow + DagsHub, DVC for data versioning |
-| [**Insurance Premium Predictor**](https://github.com/BJB0/Insurance-Premium-Predictor) | Dockerized FastAPI service with Pydantic validation and real-time inference |
-| [**Calorie Advisor**](https://github.com/BJB0/Generative-AI-HealthApp) | Gemini Pro Vision for food-image calorie estimation; prompt iteration to cut hallucinations on noisy inputs |
-| [**YouTube Transcriber**](https://github.com/BJB0/youtube-transcript-notes) | Gemini-based transcript summarization into structured notes |
+[**LinkedIn**](https://www.linkedin.com/in/bhargab-jb/) · [**Email**](mailto:bjbcr7@gmail.com)
 
 ---
 
@@ -40,7 +33,7 @@ I build end-to-end ML pipelines, deploy models with FastAPI, and ship LLM-powere
 
 **Also use:** Streamlit · Flask · Pydantic · MLflow · DVC · Linux
 
-**Currently learning:** advanced retrieval & reranking, vector stores, and React for portfolio-style frontends.
+**Currently learning:** advanced retrieval & reranking, vector stores, and React for product-style frontends.
 
 ---
 
