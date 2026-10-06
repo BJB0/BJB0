@@ -77,7 +77,7 @@
 ## 🗓️ Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BJB0&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+  <img src="https://readme-activity-graph.vercel.app/graph?username=BJB0&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
