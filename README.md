@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-time+%7C+internships+%7C+hackathons+%C2%B7+AI%2FML+%26+NLP;Dense+retrieval+%2B+deployable+ML+backends;Tezpur+University+%C2%B7+Class+of+2026" alt="Typing intro" />
 </p>
 
-# Bhargab Jyoti Bhuyan
+
 
 **B.Tech Computer Science & Engineering · Tezpur University (Class of 2026)**
 
