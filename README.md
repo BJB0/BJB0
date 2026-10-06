@@ -1,20 +1,12 @@
 <!-- GitHub Profile README for Bhargab Jyoti Bhuyan -->
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=BJB0&label=Profile%20views&color=00D9FF&style=flat" alt="Profile views" />
-</p>
-
 <h2 align="left">
   Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" alt="Waving hand"><br>
   I'm Bhargab Jyoti Bhuyan — AI/ML &amp; NLP engineer 💻
 </h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=130&section=header&text=Bhargab%20Jyoti%20Bhuyan&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Animated waving header" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D9FF,100:161B22&height=150&section=header&text=Dense%20retrieval%20%C2%B7%20FastAPI%20%C2%B7%20RAG&fontSize=26&fontColor=00D9FF&animation=fadeIn" alt="Focus areas banner" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480" alt="Developer at work animation" />
 </p>
 
 <p align="center">
