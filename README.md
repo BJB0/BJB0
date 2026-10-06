@@ -24,7 +24,7 @@ I build end-to-end ML pipelines, deploy models with FastAPI, and ship LLM-powere
 <p align="left">
   <a href="https://www.linkedin.com/in/bhargab-jb/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" /></a>
   <a href="mailto:bjbcr7@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Email" /></a>
-  <a href="https://github.com/BJB0" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/bhargab_jb/" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="36" alt="Instagram" /></a>
 </p>
 
 ---
