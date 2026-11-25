@@ -35,7 +35,7 @@ I build end-to-end ML pipelines, deploy models with FastAPI, and ship LLM-powere
 ## About
 
 - **Education:** B.Tech CSE at [Tezpur University](https://www.tezu.ac.in/), Assam (Aug 2022 – Jun 2026).
-- **Now:** AI Research & Engineering Intern at **Khyontek AI** — CLEF 2026 CheckThat! Task 1 (retrieving publications cited in multilingual social claims); experiments with multilingual-E5, BGE, and Contriever; co-authored submission to CEUR-WS proceedings.
+- **Now:** Junior Software Engineer at **Khyontek AI** - AI Research & Engineering Intern at **Khyontek AI** — CLEF 2026 CheckThat! Task 1 (retrieving publications cited in multilingual social claims); experiments with multilingual-E5, BGE, and Contriever; co-authored submission to CEUR-WS proceedings.
 - **Before:** Project intern at **C-DAC** (ANUVAAD Chat multilingual backend) and AI/ML research intern at **IIT Guwahati** (grasp-force prediction, SHAP, cross-validation).
 - **Focus:** Retrieval & reranking, RAG, reproducible ML, and backends that are ready to deploy—not just notebooks.
 
